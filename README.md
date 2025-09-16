@@ -1,6 +1,6 @@
 # 📊 HR Analytics Dashboard (Power BI)
 
-![alt text]((https://github.com/amitverma2699/HR-Analytics-Dashboard/blob/main/Images/Screenshot%202025-09-07%20214033.png))
+![alt text](https://github.com/amitverma2699/HR-Analytics-Dashboard/blob/main/Images/Screenshot%202025-09-07%20214033.png)
 
 
 ## 🚀 Project Overview
