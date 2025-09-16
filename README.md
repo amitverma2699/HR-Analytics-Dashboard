@@ -45,4 +45,4 @@ To help HR teams identify attrition patterns and improve retention strategies.
 - Interact with filters for custom views
 
 ## 🧑‍💻 Author
-Amit Verma – Data Scientist | [LinkedIn Profile](https://www.linkedin.com/in/amit-verma-57a7a71b7/)
+Amit Verma – Aspiring Data Scientist | [LinkedIn Profile](https://www.linkedin.com/in/amit-verma-57a7a71b7/)
